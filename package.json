@@ -1,0 +1,19 @@
+{
+  "name": "rt-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuFsrd/rt_server.git"
+  },
+  "author": "Aurelien Fossard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuFsrd/rt_server/issues"
+  },
+  "homepage": "https://github.com/AuFsrd/rt_server#readme"
+}
